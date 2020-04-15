@@ -1,2 +1,2 @@
-# deep_learning_practice
-Practice code of DL
+# deep_learning_practice_projects
+
